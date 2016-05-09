@@ -1,0 +1,36 @@
+.wrapper {
+  height: 50%;
+  width: 100%;
+}
+
+#holder {
+  width: 600px;
+  margin: auto;
+}
+
+body {
+  text-align: center;
+  padding: 150px;
+  font: 20px Helvetica, sans-serif;
+  background-color: #8ec63f;
+}
+
+h1 {
+  color: #006400;
+  font-size: 50px;
+}
+
+article {
+  display: block;
+  text-align: left;
+  width: 650px;
+  margin: 0 auto;
+}
+
+a {
+  color: #006400;
+}
+
+a:hover {
+  color: #333;
+}
